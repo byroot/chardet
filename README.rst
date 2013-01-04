@@ -16,3 +16,10 @@ Detects
   - TIS-620 (Thai)
 
 Requires Python 3 or later
+
+Commandline interface
+---------------------
+
+::
+
+  chardet2 <filename>

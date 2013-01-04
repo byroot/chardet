@@ -33,5 +33,6 @@ setup(name='chardet2',
           "Programming Language :: Python",
           "Topic :: Software Development :: Libraries :: Python Modules",
           "Topic :: Text Processing :: Linguistic",
-      ]
+      ],
+      scripts=['bin/chardet2']
 )
